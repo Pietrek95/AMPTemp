@@ -9,6 +9,7 @@ Meta.DockerRequired=False
 Meta.ContainerPolicy=Supported
 Meta.ContainerPolicyReason=
 Meta.Prerequsites=[]
+Meta.AppConfigId=bd77b721-ce02-41e9-89c7-a0c53c9182b7
 Meta.EndpointURIFormat=steam://connect/{ip}:{GenericModule.App.Ports.$SteamQueryPort}
 App.AdminMethod=PinballWizard
 App.HasReadableConsole=false
