@@ -8,6 +8,14 @@
         "ForceDownloadPlatform":"Windows"
     },
     {
+        "UpdateStageName":"SteamCMD Component Download",
+        "UpdateSourcePlatform":"Windows",
+        "UpdateSource":"SteamCMD",
+        "UpdateSourceData":"1007",
+        "UpdateSourceTarget":749070,
+        "UpdateSourceArgs":"378360"
+    },
+    {
         "UpdateStageName":"Proton GE Download",
         "UpdateSourcePlatform":"Linux",
         "UpdateSource":"Executable",
