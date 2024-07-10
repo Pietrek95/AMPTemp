@@ -1,0 +1,19 @@
+[
+    {
+        "DisplayName": "save",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "save",
+        "FieldName": "$Save",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "save",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "Default",
+        "Placeholder": "",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
